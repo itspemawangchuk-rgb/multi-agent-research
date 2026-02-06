@@ -15,3 +15,10 @@ To build a scalable multi-agent setup where agents can research, analyze, and co
 - Python
 - GitHub
 - AI agent framework
+- ## Creative / Unique Feature
+
+### Agent Debate & Consensus Mechanism
+
+Before producing a final research output, multiple agents
+independently analyze the same query. A synthesis agent
+compares responses and generates a consensus-based answer.
